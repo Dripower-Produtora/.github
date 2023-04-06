@@ -1,4 +1,8 @@
 <div align="center">
+  <img width="280" src="https://estudiosdripower.com.br/images/png/logo.png" alt>
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/youtube/channel/subscribers/UClx1wUMSdw0JilcXa_mAIWw?color=%23ff017d&label=Inscritos%20no%20Youtube&style=for-the-badge" alt>
   <img src="https://img.shields.io/youtube/channel/views/UClx1wUMSdw0JilcXa_mAIWw?color=%23ff017d&label=Visualiza%C3%A7%C3%B5es%20no%20YouTube&style=for-the-badge" alt>
 </div>
